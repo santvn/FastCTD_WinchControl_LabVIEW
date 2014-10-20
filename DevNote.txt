@@ -1,0 +1,4 @@
+Jan 30, 2007: Mai Bui
+This version revise from the version for the AESOP cruise.
+It had been cleaned up, made comments and tested with the whole FCTD system setup in the lab.
+It would be the one be use in the next deployment.
